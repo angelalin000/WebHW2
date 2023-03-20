@@ -28,7 +28,7 @@ input {
     right: 15%;
 
     border-style: none;
-    color: gray;
+    color: #EE7A00;
     background-color: rgba(0, 0, 0, 0);
     font-weight: bold;
     text-shadow: 0 0 0.5px black;  /* 為標題添加文本陰影，讓其看起來更加突出 */
